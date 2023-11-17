@@ -1,9 +1,12 @@
 #EventManagement System
 
 Application Workflow
-1: Authenticates users via Email and Password with Firebase,
+1: Authenticates users via Email and Password with Firebase
+
 2: Allows users to create events and generate a registration link to share with friends or the public.
+
 3: when someone registers via your invite link, they receive the event ticket in their email, including a passcode which you can use to verify their event ticket from your dashboard.
+
 4: The application also allows you as a user to view the number of people who registered for your event, validate an attendee's ticket via the passcode they receive, and also disable the registration link when you have enough attendees. You can also delete an event after it has occurred.
 
 
