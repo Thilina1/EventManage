@@ -1,6 +1,7 @@
 #EventManagement System
 
 Application Workflow
+
 1: Authenticates users via Email and Password with Firebase
 
 2: Allows users to create events and generate a registration link to share with friends or the public.
